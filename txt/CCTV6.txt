@@ -1,9 +1,12 @@
 有些直播源没法在网页直接播放，需要在potplayer等支持打开m3u8的软件打开。
-以下是CCTV5搜集到的直播源，2022.2.13更新
+以下是CCTV6搜集到的直播源，2022.2.14更新
 
 
-http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+
+
+http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
