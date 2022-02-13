@@ -1,0 +1,14 @@
+有些直播源没法在网页直接播放，需要在potplayer等支持打开m3u8的软件打开。
+以下是CCTV2搜集到的直播源，2022.2.13更新
+
+由于CCTV2所有源都无法在网页直接播放，需要自行复制在potplayer等支持打开m3u8的软件打开。
+
+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+
+
+
