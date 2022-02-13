@@ -1,0 +1,17 @@
+有些直播源没法在网页直接播放，需要在potplayer等支持打开m3u8的软件打开。
+以下是CCTV3搜集到的直播源，2022.2.13更新
+
+
+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+http://140.207.241.3:8080/live/program/live/cctv3hd/2300000/mnf.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/2300000/mnf.m3u8
+http://112.25.48.68/live/program/live/cctv3/1300000/mnf.m3u8
