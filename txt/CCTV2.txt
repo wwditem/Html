@@ -10,3 +10,4 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv2/1300000/mnf.m3u8
+http://112.25.48.68/live/program/live/cctv2/1300000/mnf.m3u8
