@@ -214,6 +214,26 @@ $("#social").mouseover(function () {
 });
 
 
+$("#github").mouseover(function () {
+    $("#link-text").html("去 Github 看看");
+}).mouseout(function () {
+    $("#link-text").html("有什么事吗");
+});
+$("#email").mouseover(function () {
+    $("#link-text").html("来封 Email");
+}).mouseout(function () {
+    $("#link-text").html("有什么事吗");
+});
+$("#Player").mouseover(function () {
+    $("#link-text").html("播放器模板");
+}).mouseout(function () {
+    $("#link-text").html("有什么事吗");
+});
+$("#telegram").mouseover(function () {
+    $("#link-text").html("友情链接");
+}).mouseout(function () {
+    $("#link-text").html("有什么事吗");
+});
 
 //自动变灰
 let myDate = new Date;
