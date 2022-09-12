@@ -74,10 +74,11 @@ function getBgImg() {
 }
 
 let bg_img_preinstall = {
-    "type": "1", // 1:默认背景 2:每日一图 3:随机风景 4:随机动漫
+    "type": "1", // 1:默认背景 2:每日一图 3:随机风景 4:随机动漫 5:随机美女图片
     "2": "https://api.dujin.org/bing/1920.php", // 每日一图
     "3": "https://api.ixiaowai.cn/gqapi/gqapi.php", // 随机风景
     "4": "https://api.ixiaowai.cn/api/api.php" // 随机动漫
+    "5": "https://cdn.seovx.com/?mom=302" // 随机美女图片
 };
 
 // 更改背景图片
@@ -119,6 +120,9 @@ function setBgImgInit() {
             break;
         case "4":
             $('#bg').attr('src', bg_img_preinstall[4]); //随机动漫
+            break;
+        case "5":
+            $('#bg').attr('src', bg_img_preinstall[5]); //随机美女图片
             break;
     }
 };
