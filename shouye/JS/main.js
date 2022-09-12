@@ -56,7 +56,7 @@ window.addEventListener('load', function () {
 
     //延迟加载音乐播放器
     let element = document.createElement("script");
-    element.src = "./music.js";
+    element.src = "https://fastly.jsdelivr.net/gh/2992204600/Html/shouye/JS/music.js";
     document.body.appendChild(element);
 
 
