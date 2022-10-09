@@ -93,11 +93,11 @@ function setBgImgInit() {
             pictures[2] = 'https://cdn2.pandaimg.com/2022/09/10/631c488cc66cd.webp';
             pictures[3] = 'https://cdn2.pandaimg.com/2022/09/10/631c488e8d1ab.webp';
             pictures[4] = 'https://cdn2.pandaimg.com/2022/09/10/631c48903fffc.webp';
-            pictures[5] = 'https://cdn2.pandaimg.com/2022/09/10/631c4891c5721.webp';
-            pictures[6] = 'https://cdn2.pandaimg.com/2022/09/10/631c489389b85.webp';
-            pictures[7] = 'https://cdn2.pandaimg.com/2022/09/10/631c4895193f8.webp';
-            pictures[8] = 'https://cdn2.pandaimg.com/2022/09/10/631c4896c1f5a.webp';
-            pictures[9] = 'https://cdn2.pandaimg.com/2022/09/10/631c48988a35c.webp';
+            pictures[5] = 'https://cdn2.pandaimg.com/2022/10/09/634235bf51edd.webp';
+            pictures[6] = 'https://cdn2.pandaimg.com/2022/10/09/634236b96d4bc.webp';
+            pictures[7] = 'https://cdn2.pandaimg.com/2022/10/09/634236b46b82c.webp';
+            pictures[8] = 'https://cdn2.pandaimg.com/2022/10/09/634236ae407a4.webp';
+            pictures[9] = 'https://cdn2.pandaimg.com/2022/10/09/634236adaa853.webp';
             pictures[10] = 'https://cdn2.pandaimg.com/2022/09/10/631c7ecea326c.webp';
             pictures[11] = 'https://cdn2.pandaimg.com/2022/09/10/631c7ecc8ad8d.webp';
             pictures[12] = 'https://cdn2.pandaimg.com/2022/09/10/631c7ed29ebe4.webp';
@@ -108,7 +108,17 @@ function setBgImgInit() {
             pictures[17] = 'https://cdn2.pandaimg.com/2022/09/10/631c7ed8585b4.webp';
             pictures[18] = 'https://cdn2.pandaimg.com/2022/09/10/631c7ecaf251d.webp';
             pictures[19] = 'https://cdn2.pandaimg.com/2022/09/10/631c7ed520a2c.webp';
-            var rd = Math.floor(Math.random() * 20);
+            pictures[20] = 'https://cdn2.pandaimg.com/2022/09/10/631c7ed520a2c.webp';
+            pictures[21] = 'https://cdn2.pandaimg.com/2022/10/09/634237326681c.webp';
+            pictures[22] = 'https://cdn2.pandaimg.com/2022/10/09/6342373bbad54.webp';
+            pictures[23] = 'https://cdn2.pandaimg.com/2022/10/09/6342373769e5d.webp';
+            pictures[24] = 'https://cdn2.pandaimg.com/2022/10/09/6342374098424.webp';
+            pictures[25] = 'https://cdn2.pandaimg.com/2022/10/09/63423764c7732.webp';
+            pictures[26] = 'https://cdn2.pandaimg.com/2022/10/09/6342374692395.webp';
+            pictures[27] = 'https://cdn2.pandaimg.com/2022/10/09/6342375a767c9.webp';
+            pictures[28] = 'https://cdn2.pandaimg.com/2022/10/09/63423751a09b3.webp';
+            pictures[29] = 'https://cdn2.pandaimg.com/2022/10/09/6342374c10558.webp';
+            var rd = Math.floor(Math.random() * 30);
             $('#bg').attr('src', pictures[rd]) //随机默认壁纸
             break;
         case "2":
