@@ -92,7 +92,7 @@ function setBgImgInit() {
             pictures[1] = 'https://cdn2.pandaimg.com/2022/09/10/631c488b22a8b.webp';
             pictures[2] = 'https://cdn2.pandaimg.com/2022/09/10/631c488cc66cd.webp';
             pictures[3] = 'https://cdn2.pandaimg.com/2022/09/10/631c488e8d1ab.webp';
-            pictures[4] = 'https://cdn2.pandaimg.com/2022/09/10/631c48903fffc.webp';
+            pictures[4] = 'https://cdn2.pandaimg.com/2022/09/10/631c4891c5721.webp';
             pictures[5] = 'https://cdn2.pandaimg.com/2022/10/09/634235bf51edd.webp';
             pictures[6] = 'https://cdn2.pandaimg.com/2022/10/09/634236b96d4bc.webp';
             pictures[7] = 'https://cdn2.pandaimg.com/2022/10/09/634236b46b82c.webp';
