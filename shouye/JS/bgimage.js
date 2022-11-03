@@ -98,7 +98,7 @@ function setBgImgInit() {
             pictures[7] = 'https://s1.ax1x.com/2022/11/02/xHIE1U.jpg';
             pictures[8] = 'https://s1.ax1x.com/2022/11/02/xHIApT.jpg';
             pictures[9] = 'https://s1.ax1x.com/2022/11/02/xHIit0.jpg';
-            pictures[10] = 'https://s1.ax1x.com/2022/11/02/xHIFhV.jpg';
+            pictures[10] = 'https://s1.ax1x.com/2022/11/03/xbhVMQ.jpg';
             pictures[11] = 'https://s1.ax1x.com/2022/11/02/xHIVcF.jpg';
             pictures[12] = 'https://s1.ax1x.com/2022/11/02/xHInB9.jpg';
             pictures[13] = 'https://s1.ax1x.com/2022/11/02/xHImnJ.jpg';
@@ -107,7 +107,7 @@ function setBgImgInit() {
             pictures[16] = 'https://s1.ax1x.com/2022/11/02/xHIMA1.jpg';
             pictures[17] = 'https://s1.ax1x.com/2022/11/02/xHIlh6.jpg';
             pictures[18] = 'https://s1.ax1x.com/2022/11/02/xHIu7R.jpg';
-            pictures[19] = 'https://s1.ax1x.com/2022/11/02/xHI39K.jpg';
+            pictures[19] = 'https://s1.ax1x.com/2022/11/03/xbhAxg.jpg';
             pictures[20] = 'https://s1.ax1x.com/2022/11/02/xHIQtx.jpg';
             pictures[21] = 'https://s1.ax1x.com/2022/11/02/xHIUHA.jpg';
             pictures[22] = 'https://s1.ax1x.com/2022/11/02/xHIGcD.jpg';
